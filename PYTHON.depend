@@ -1,0 +1,148 @@
+# depslib dependency file v1.0
+1251369921 source:c:\users\afshin\documents\c\python\main.c
+	"gui.h"
+	"compile.h"
+
+1251350443 source:c:\users\afshin\documents\c\python\alloc.c
+	<stdlib.h>
+	"module.h"
+
+1242458100 c:\users\afshin\documents\c\python\stack.h
+
+1242885206 source:c:\users\afshin\documents\c\python\stack.c
+	"tools.h"
+
+1251378716 source:c:\users\afshin\documents\c\python\input.c
+	<stdio.h>
+	<stdlib.h>
+	"module.h"
+
+1251378357 c:\users\afshin\documents\c\python\input.h
+
+1251313144 c:\users\afshin\documents\c\python\alloc.h
+
+1251378628 c:\users\afshin\documents\c\python\module.h
+	"input.h"
+	"alloc.h"
+	"tools.h"
+	"python.h"
+	"input.h"
+	"calculations.h"
+	"stacks.h"
+
+1251358212 c:\users\afshin\documents\c\python\tools.h
+
+1251358010 source:c:\users\afshin\documents\c\python\tools.c
+	"module.h"
+
+1251348743 source:c:\users\afshin\documents\c\python\mathematics.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<ctype.h>
+	<string.h>
+	"module.h"
+
+1251378996 source:c:\users\afshin\documents\c\python\python.c
+	<stdlib.h>
+	"module.h"
+
+1251379285 c:\users\afshin\documents\c\python\python.h
+
+1251378919 source:c:\users\afshin\documents\c\python\gui.c
+	<stdio.h>
+	"module.h"
+
+1251208731 c:\users\afshin\documents\c\python\gui.h
+
+1251378380 source:c:\users\afshin\documents\c\python\compile.c
+	<stdio.h>
+	<stdlib.h>
+	"module.h"
+
+1251184662 c:\users\afshin\documents\c\python\compile.h
+
+1251348799 c:\users\afshin\documents\c\python\mathematics.h
+
+1251376435 c:\users\afshin\documents\c\python\calculations.h
+
+1251377485 source:c:\users\afshin\documents\c\python\calculations.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<ctype.h>
+	<string.h>
+	"module.h"
+
+1251376330 c:\users\afshin\documents\c\python\stacks.h
+
+1251376344 source:c:\users\afshin\documents\c\python\stacks.c
+	<string.h>
+	"module.h"
+
+1251350444 source:c:\shiraz uni\saba\saba moratab\python 9\python\alloc.c
+	<stdlib.h>
+	"module.h"
+
+1251378630 c:\shiraz uni\saba\saba moratab\python 9\python\module.h
+	"input.h"
+	"alloc.h"
+	"tools.h"
+	"python.h"
+	"input.h"
+	"calculations.h"
+	"stacks.h"
+
+1251378358 c:\shiraz uni\saba\saba moratab\python 9\python\input.h
+
+1251313146 c:\shiraz uni\saba\saba moratab\python 9\python\alloc.h
+
+1251358214 c:\shiraz uni\saba\saba moratab\python 9\python\tools.h
+
+1251460852 c:\shiraz uni\saba\saba moratab\python 9\python\python.h
+
+1644178684 c:\shiraz uni\saba\saba moratab\python 9\python\calculations.h
+
+1251376332 c:\shiraz uni\saba\saba moratab\python 9\python\stacks.h
+
+1251379388 source:c:\shiraz uni\saba\saba moratab\python 9\python\compile.c
+	<stdio.h>
+	<stdlib.h>
+	"module.h"
+
+1251378920 source:c:\shiraz uni\saba\saba moratab\python 9\python\gui.c
+	<stdio.h>
+	"module.h"
+
+1251379138 source:c:\shiraz uni\saba\saba moratab\python 9\python\input.c
+	<stdio.h>
+	<stdlib.h>
+	"module.h"
+
+1644177846 source:c:\shiraz uni\saba\saba moratab\python 9\python\main.c
+	"gui.h"
+	"compile.h"
+
+1251208732 c:\shiraz uni\saba\saba moratab\python 9\python\gui.h
+
+1251184664 c:\shiraz uni\saba\saba moratab\python 9\python\compile.h
+
+1251358012 source:c:\shiraz uni\saba\saba moratab\python 9\python\tools.c
+	"module.h"
+
+1251460086 source:c:\shiraz uni\saba\saba moratab\python 9\python\calculations.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<ctype.h>
+	<string.h>
+	"module.h"
+
+1251463902 source:c:\shiraz uni\saba\saba moratab\python 9\python\python.c
+	<stdlib.h>
+	"module.h"
+
+1251460310 source:c:\shiraz uni\saba\saba moratab\python 9\python\stacks.c
+	<string.h>
+	"module.h"
+
